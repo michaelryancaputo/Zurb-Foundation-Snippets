@@ -1,7 +1,7 @@
-<!-- Foundation 4 .pagination -->
+<!-- Foundation 4 .pagination-centered -->
 <snippet>
 	<content><![CDATA[
-<ul class="pagination">
+<ul class="pagination${1:-centered}">
 	<li class="arrow unavailable"><a href="">&laquo;</a></li>
 	<li class="current"><a href="">1</a></li>
 	<li><a href="">2</a></li>
