@@ -3,5 +3,5 @@
 	<content><![CDATA[
 <div class="small-${1} large-${2} columns">${3}</div>
 ]]></content>
-	<tabTrigger>f4-cust-col</tabTrigger>
+	<tabTrigger>f4-col</tabTrigger>
 </snippet>
