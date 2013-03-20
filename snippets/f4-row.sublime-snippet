@@ -7,11 +7,3 @@
 ]]></content>
 	<tabTrigger>f4-row</tabTrigger>
 </snippet>
-
-<!-- Foundation 4 custom column -->
-<snippet>
-	<content><![CDATA[
-<div class="small-${1} large-${2} columns">${3}</div>
-]]></content>
-	<tabTrigger>f4-cust-col</tabTrigger>
-</snippet>
