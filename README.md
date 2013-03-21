@@ -28,7 +28,7 @@ Get in touch if you have any ideas!
 
 Feel free to tweet at me, or visit my website at:
 
-[@flashpunk](http://twitter.com/flashpunk/ "My Twitter")
-[http://www.mikecaputo.com](http://www.mikecaputo.com/ "My Website")
+* [@flashpunk](http://twitter.com/flashpunk/ "My Twitter")
+* [http://www.mikecaputo.com](http://www.mikecaputo.com/ "My Website")
 
 Ideas are always welcome!
