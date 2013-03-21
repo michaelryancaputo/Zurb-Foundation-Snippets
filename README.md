@@ -22,3 +22,13 @@ List of Snippets
 * f4-side-nav = Default side-nav
 * f4-sub-nav = Default sub-nav
 * f4-top-bar = Default top-bar
+
+Get in touch if you have any ideas!
+-----------------------------------
+
+Feel free to tweet at me, or visit my website at:
+
+[@flashpunk](http://twitter.com/flashpunk/ "My Twitter")
+[http://www.mikecaputo.com](http://www.mikecaputo.com/ "My Website")
+
+Ideas are always welcome!
