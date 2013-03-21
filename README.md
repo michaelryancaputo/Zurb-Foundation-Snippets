@@ -1,7 +1,7 @@
-Sublime-Text---Snippets-for-Zurb-Foundation-
-============================================
+Zurb-Foundation-Snippets
+========================
 
-A collection of Sublime Text snippets for Zurb Foundation.
+A collection of Sublime Text snippets for Zurb Foundation. I will start with adding snippets for Foundation 4, but will eventually add Foundation 3.
 
 Snippets will start with "f4-" then will be invoked with a descriptive (and if possible condenced) keyword. Snippets listed below:
 
