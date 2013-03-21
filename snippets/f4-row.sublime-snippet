@@ -1,9 +1,9 @@
 <!-- Foundation 4 .row -->
 <snippet>
 	<content><![CDATA[
-<div class="row">
-	${1}
-</div>
+	<div class="row">
+		${1}
+	</div>
 ]]></content>
 	<tabTrigger>f4-row</tabTrigger>
 </snippet>

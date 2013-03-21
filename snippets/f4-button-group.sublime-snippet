@@ -1,0 +1,11 @@
+<!-- Foundation 4 .button-group -->
+<snippet>
+	<content><![CDATA[
+	<ul class="button-group ${1:radius / round} even-${2:number}">
+		<li><a href="#" class="button alert">Button 1</a></li>
+		<li><a href="#" class="button alert">Button 2</a></li>
+		<li><a href="#" class="button alert">Button 3</a></li>
+	</ul>
+]]></content>
+	<tabTrigger>f4-button-group</tabTrigger>
+</snippet>

@@ -1,0 +1,10 @@
+<!-- Foundation 4 .alert-box -->
+<snippet>
+	<content><![CDATA[
+	<div data-alert class="alert-box ${1:success / alert / secondary} ${2:round}">
+		${3}
+		<a href="#" class="close">&times;</a>
+	</div>
+]]></content>
+	<tabTrigger>f4-alert-box</tabTrigger>
+</snippet>

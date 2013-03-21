@@ -1,0 +1,9 @@
+<!-- Foundation 4 .panel -->
+<snippet>
+	<content><![CDATA[
+	<div class="panel ${1:callout} ${2:radius}">
+		${3}
+	</div>
+]]></content>
+	<tabTrigger>f4-panel</tabTrigger>
+</snippet>

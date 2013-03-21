@@ -1,0 +1,7 @@
+<!-- Foundation 4 .label -->
+<snippet>
+	<content><![CDATA[
+	<span class="${1:radius / round} ${2:secondary / alert / success} label">Text</span>
+]]></content>
+	<tabTrigger>f4-label</tabTrigger>
+</snippet>

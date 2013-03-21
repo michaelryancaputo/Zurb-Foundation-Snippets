@@ -1,0 +1,7 @@
+<!-- Foundation 4 .button -->
+<snippet>
+	<content><![CDATA[
+	<a href="#" class="${1:tiny / small / medium / large} ${2:secondary / alert / success} ${3:radius / round} ${3:disabled}"> ${4}</a>
+]]></content>
+	<tabTrigger>f4-button</tabTrigger>
+</snippet>

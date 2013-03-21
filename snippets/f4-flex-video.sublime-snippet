@@ -1,0 +1,9 @@
+<!-- Foundation 4 .flex-video -->
+<snippet>
+	<content><![CDATA[
+	<div class="flex-video ${1:widescreen} ${2:vimeo;}">
+		${3}
+	</div>
+]]></content>
+	<tabTrigger>f4-flex-video</tabTrigger>
+</snippet>
